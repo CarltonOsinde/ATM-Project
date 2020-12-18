@@ -4,7 +4,7 @@ This project was part of a creative venture to make an automated Teller machine 
 
 
 # Motivation
-I always had an interest in banking and thought what better way to express that itnerest then trying to simulate a ATM build.
+A class project :)
 
 # Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
